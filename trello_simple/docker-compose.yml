@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: trello_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: trello
+      POSTGRES_PASSWORD: trello
+      POSTGRES_DB: trello
+    ports:
+      - "5432:5432"
+    volumes:
+      - trello_pgdata:/var/lib/postgresql/data
+
+volumes:
+  trello_pgdata:

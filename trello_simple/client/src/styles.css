@@ -1,0 +1,4 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: 'Segoe UI', Roboto, sans-serif; background: #0079bf; color: #172b4d; }
+button { cursor: pointer; border: none; border-radius: 4px; padding: 6px 10px; font-size: 14px; }
+input, textarea { font-family: inherit; padding: 6px; border-radius: 4px; border: 1px solid #ccc; width: 100%; }
