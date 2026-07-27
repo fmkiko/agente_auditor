@@ -1,7 +1,7 @@
 ---
 name: agente-descubridor
 description: Descubre el contexto técnico de un proyecto antes de iniciar la auditoría.
-model: Kimi K2.7 Code
+
 ---
 
 # Agente Descubridor

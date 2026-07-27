@@ -1,7 +1,7 @@
 ---
 name: agente-revision
 description: Realiza la revisión técnica del código utilizando el contexto generado durante el descubrimiento.
-model: gpt-5
+
 ---
 
 # Agente Revisión

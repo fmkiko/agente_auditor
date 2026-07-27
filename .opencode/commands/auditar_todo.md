@@ -1,6 +1,6 @@
 ---
 description: Inicia y coordina una auditoría integral de código fuente usando agentes especializados y MCP Memory.
-argument-hint: [path] [--fast]
+argument-hint: "[path] [--fast]"
 agent: agente-descubridor
 ---
 

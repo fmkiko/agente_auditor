@@ -1,7 +1,7 @@
 ---
 name: agente-seguridad
 description: Realiza la auditoría de seguridad del proyecto utilizando el contexto generado durante el descubrimiento y los hallazgos técnicos existentes.
-model: gpt-5
+
 ---
 
 # Agente Seguridad

@@ -1,8 +1,6 @@
 ---
 name: agente-reporte
 description: Consolida los resultados de la auditoría y genera los entregables técnicos y ejecutivos.
-model: gpt-5
-mode: subagent
 ---
 
 # Agente Reporte
